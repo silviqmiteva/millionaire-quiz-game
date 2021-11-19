@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/millionaire-quiz-game/static/css/main.3cfde661.chunk.css",
-    "main.js": "/millionaire-quiz-game/static/js/main.8891a7c8.chunk.js",
-    "main.js.map": "/millionaire-quiz-game/static/js/main.8891a7c8.chunk.js.map",
+    "main.js": "/millionaire-quiz-game/static/js/main.606e2e67.chunk.js",
+    "main.js.map": "/millionaire-quiz-game/static/js/main.606e2e67.chunk.js.map",
     "runtime-main.js": "/millionaire-quiz-game/static/js/runtime-main.63d6f54a.js",
     "runtime-main.js.map": "/millionaire-quiz-game/static/js/runtime-main.63d6f54a.js.map",
-    "static/js/2.c27abed8.chunk.js": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js",
-    "static/js/2.c27abed8.chunk.js.map": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js.map",
+    "static/js/2.8b25b40a.chunk.js": "/millionaire-quiz-game/static/js/2.8b25b40a.chunk.js",
+    "static/js/2.8b25b40a.chunk.js.map": "/millionaire-quiz-game/static/js/2.8b25b40a.chunk.js.map",
     "index.html": "/millionaire-quiz-game/index.html",
     "static/css/main.3cfde661.chunk.css.map": "/millionaire-quiz-game/static/css/main.3cfde661.chunk.css.map",
-    "static/js/2.c27abed8.chunk.js.LICENSE.txt": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js.LICENSE.txt",
+    "static/js/2.8b25b40a.chunk.js.LICENSE.txt": "/millionaire-quiz-game/static/js/2.8b25b40a.chunk.js.LICENSE.txt",
     "static/media/50-501.79e2e080.png": "/millionaire-quiz-game/static/media/50-501.79e2e080.png",
     "static/media/correctAnswer.73519ef7.mp3": "/millionaire-quiz-game/static/media/correctAnswer.73519ef7.mp3",
     "static/media/easy.5fb14d33.mp3": "/millionaire-quiz-game/static/media/easy.5fb14d33.mp3",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.63d6f54a.js",
-    "static/js/2.c27abed8.chunk.js",
+    "static/js/2.8b25b40a.chunk.js",
     "static/css/main.3cfde661.chunk.css",
-    "static/js/main.8891a7c8.chunk.js"
+    "static/js/main.606e2e67.chunk.js"
   ]
 }
