@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/millionaire-quiz-game/static/css/main.3cfde661.chunk.css",
+    "main.js": "/millionaire-quiz-game/static/js/main.8891a7c8.chunk.js",
+    "main.js.map": "/millionaire-quiz-game/static/js/main.8891a7c8.chunk.js.map",
+    "runtime-main.js": "/millionaire-quiz-game/static/js/runtime-main.63d6f54a.js",
+    "runtime-main.js.map": "/millionaire-quiz-game/static/js/runtime-main.63d6f54a.js.map",
+    "static/js/2.c27abed8.chunk.js": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js",
+    "static/js/2.c27abed8.chunk.js.map": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js.map",
+    "index.html": "/millionaire-quiz-game/index.html",
+    "static/css/main.3cfde661.chunk.css.map": "/millionaire-quiz-game/static/css/main.3cfde661.chunk.css.map",
+    "static/js/2.c27abed8.chunk.js.LICENSE.txt": "/millionaire-quiz-game/static/js/2.c27abed8.chunk.js.LICENSE.txt",
+    "static/media/50-501.79e2e080.png": "/millionaire-quiz-game/static/media/50-501.79e2e080.png",
+    "static/media/correctAnswer.73519ef7.mp3": "/millionaire-quiz-game/static/media/correctAnswer.73519ef7.mp3",
+    "static/media/easy.5fb14d33.mp3": "/millionaire-quiz-game/static/media/easy.5fb14d33.mp3",
+    "static/media/friend1.0db59c53.png": "/millionaire-quiz-game/static/media/friend1.0db59c53.png",
+    "static/media/hardQuestions.348c5fdb.mp3": "/millionaire-quiz-game/static/media/hardQuestions.348c5fdb.mp3",
+    "static/media/jocker5050.05026f46.mp3": "/millionaire-quiz-game/static/media/jocker5050.05026f46.mp3",
+    "static/media/jockerPublic.d1091362.mp3": "/millionaire-quiz-game/static/media/jockerPublic.d1091362.mp3",
+    "static/media/markedAnswer.aa5cc05e.mp3": "/millionaire-quiz-game/static/media/markedAnswer.aa5cc05e.mp3",
+    "static/media/mediumQuestions.82057dbf.mp3": "/millionaire-quiz-game/static/media/mediumQuestions.82057dbf.mp3",
+    "static/media/phoneFriend.6e5d8fd1.mp3": "/millionaire-quiz-game/static/media/phoneFriend.6e5d8fd1.mp3",
+    "static/media/public1.66ff7c1f.png": "/millionaire-quiz-game/static/media/public1.66ff7c1f.png",
+    "static/media/mainpage.css": "/millionaire-quiz-game/static/media/room.ee2fc5f9.jpg",
+    "static/media/used50-50.0776cf65.png": "/millionaire-quiz-game/static/media/used50-50.0776cf65.png",
+    "static/media/usedfriend.ae50a6fc.png": "/millionaire-quiz-game/static/media/usedfriend.ae50a6fc.png",
+    "static/media/usedpublic.dd9cd7f5.png": "/millionaire-quiz-game/static/media/usedpublic.dd9cd7f5.png",
+    "static/media/wrongAnswer.8b41698e.mp3": "/millionaire-quiz-game/static/media/wrongAnswer.8b41698e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d6f54a.js",
+    "static/js/2.c27abed8.chunk.js",
+    "static/css/main.3cfde661.chunk.css",
+    "static/js/main.8891a7c8.chunk.js"
+  ]
+}
