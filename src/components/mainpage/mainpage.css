@@ -1,0 +1,156 @@
+.padding-0-important {
+    padding: 0 !important;
+}
+.padding-20px {
+    padding: 20px !important;
+}
+.min-height-50px {
+    min-height: 50px;
+}
+
+.pointer-events-none {
+    pointer-events: none;
+}
+
+.align-items-baseline {
+    align-items: baseline;
+}
+
+.display-inline-flex {
+    display: inline-flex !important;
+}
+
+.hide-btn {
+    display: none !important;
+}
+
+.color-orange {
+    color: orange;
+}
+
+.color-white {
+    color: white;
+}
+
+.styleNumbers > div {
+    text-align: center;
+    font-family: math;
+    margin: 5px;
+    font-size: 4.2vh;
+}
+.styleNumbers {
+    background-color: black;
+}
+.selectedSum {
+    background: orange;
+    color: white !important;
+}
+
+html {
+    background-color: black;
+}
+
+#root,
+body {
+    height: 100vh;
+}
+
+.height-100-per {
+    height: 100%;
+}
+
+.width-100-per {
+    width: 100%;
+}
+
+#mainDiv {
+    width: 70%;
+    height: 60%;
+    float: left;
+    text-align: end;
+    position: relative;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../../assets/images/room.jpg");
+}
+
+#rightDiv {
+    background-color: black;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+
+#bottomDiv {
+    background-color: black;
+    height: 40%;
+    bottom: 0;
+    left: 0;
+    width: 70%;
+    position: absolute;
+}
+
+.row-style {
+    display: flex;
+}
+
+.row-style > div {
+    width: 50%;
+}
+
+.row-style > div > button {
+    width: 100%;
+    min-height: 10vh;
+    font-size: 2.5vh;
+    color: white;
+    padding: 2px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+#question {
+    text-align: center;
+    min-height: 60px;
+    padding: 20px;
+    color: white;
+    font-size: 3vh;
+}
+
+@media (min-width: 300px) and (max-width: 767px) {
+    .styleNumbers > div {
+        margin: 0px !important;
+    }
+    .styleNumbers > div > label {
+        font-size: 2.5vh;
+    }
+
+    .image-btn {
+        width: 70px !important;
+        height: 55px !important;
+    }
+
+    .display-inline-flex {
+        display: block !important;
+    }
+    #question {
+        padding: 5px !important;
+    }
+    #popup {
+        padding: 5px;
+    }
+    #popup > h2 {
+        margin: 1px;
+    }
+    #popup .base-button {
+        font-size: 2vh;
+        min-height: 30px;
+    }
+}
+
+@media (min-width: 1000px) {
+    /* .image-btn {
+        width: 100px !important;
+        height: 95px !important;
+    } */
+}

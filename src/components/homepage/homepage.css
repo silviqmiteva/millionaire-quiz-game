@@ -1,0 +1,37 @@
+.background-style{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-position: bottom;
+    background-size: cover;
+    background-image: url('../../assets/images/room.jpg');
+}
+
+.left-side-bar{
+    height: 100%;
+    width: 30%;
+    padding: 20% 5%;
+    text-align: center;
+    background: black;
+    background-color: rgba(0,0,0,0.7);
+    z-index: 3
+}
+
+.margin-top-50per{
+    margin-top: 50%;
+}
+
+.base-button{
+    width: 100%;
+    min-height: 35px;
+    color: white;
+    font-size: 3vh;
+    font-weight: bold;
+    border: 2px solid white;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgb(87, 152, 250) 100%); 
+}
+
+.base-button:hover {
+    opacity: 0.6;
+}

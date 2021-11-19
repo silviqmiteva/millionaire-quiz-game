@@ -1,0 +1,13 @@
+.height-230px {
+    height: 230px;
+}
+#popup {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 70%;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+}

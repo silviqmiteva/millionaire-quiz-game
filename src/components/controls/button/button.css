@@ -1,0 +1,27 @@
+.bg-marked-answer{
+    background-color: orange !important;
+}
+
+.bg-correct-answer{
+    background-color: green !important;
+}
+
+.bg-wrong-answer{
+    background-color: red !important;
+}
+
+.image-btn{
+    width: 70px !important;
+    height: 60px !important;
+    background-size: cover !important;
+    background-position: center !important;
+    border:0px !important;
+}
+
+.image-btn :visited{
+    border: 0px !important;
+}
+
+#a:hover, #b:hover, #c:hover, #d:hover{
+    background-color: orange !important;
+}
